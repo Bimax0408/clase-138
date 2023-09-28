@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;  
+    font-family:'Emulogic', sans-serif!important;
+    background-size: cover;
+    text-align: center;
+}
+h1 {
+    font-family: 'Luckiest Guy';
+}
+
+#a {
+    width: 400px;
+} 
+
+#consola {
+    background-image: url(consola.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+video {
+    margin-top: 30px;
+}
